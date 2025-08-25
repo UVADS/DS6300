@@ -14,7 +14,7 @@
 
 - Probability and Random Processes (Grimmett and Stirzaker) ([PDF](http://old-eclass.uop.gr/modules/document/file.php/TST244/%5BGeoffrey_R._Grimmett%2C_David_R._Stirzaker%5D_Probabi(BookZZ.org).pdf))
 
-- Introduction to Probability for Computing (Harchol-Balter) ([PDF](http://www.cs.cmu.edu/~harchol/Probability/book.html))
+- Introduction to Probability for Computing (Harchol-Balter) ([PDF](http://www.cs.cmu.edu/~harchol/Probability/chapters/HarcholBalterWholeBook.pdf))
 
 - High Dimensional Probability (Vershynin) ([PDF](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf))
 
