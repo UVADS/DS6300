@@ -1,12 +1,12 @@
-## Theory I: Probability & Stohastic Processes - Fall 2025
+## Theory I: Probability & Stochastic Processes - Fall 2025
 
 ### Course information
 
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
-  - Lecture: Mon, Wed 9:30 - 10:45am Data Science Building 246
-  - Office hours: Tu time TBD, Data Science Building 347
+  - Lecture: Mon, Wed 9:30 - 10:45 am Data Science Building 246
+  - Office hours: Tu 10:00 - 11:00 am, Data Science Building 347
 - Teaching Assistant: [Marco Gutierrez Chavez](https://datascience.virginia.edu/people/marco-gutierrez-chavez) (sgw3fy@virginia.edu)
-  - Office hours: Th 6:30pm-7:30pm, Location TBD
+  - Office hours: Th 6:30 - 7:30 pm, Location TBD
 
 --------------
 
@@ -78,7 +78,7 @@
 
 [//]: # <u>Dec 08 2025</u>:
 
-<u>Dec 13 2025</u>: Final exam (2:00-5:00pm Data Science Building 246)
+<u>Dec 13 2025</u>: Final exam (2:00 - 5:00 pm Data Science Building 246)
 
 
 --------------
