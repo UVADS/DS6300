@@ -64,6 +64,9 @@
 
 <u>Aug 27 2025</u>: Course overview
 
+- HW 01 assigned, due 09/03 at 9:30 am
+- Read G&S 1.1 - 1.4
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
