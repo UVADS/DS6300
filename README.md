@@ -7,6 +7,11 @@
   - Office hours: Tu 10:00 - 11:00 am, Data Science Building 347
 - Teaching Assistant: [Marco Gutierrez Chavez](https://datascience.virginia.edu/people/marco-gutierrez-chavez) (sgw3fy@virginia.edu)
   - Office hours: Th 6:30 - 7:30 pm, Location TBD
+- [Canvas site](https://canvas.its.virginia.edu/courses/152505)
+- Support and Policies:
+  - [Course Policies](https://canvas.its.virginia.edu/courses/152505/pages/course-policies)
+  - [School of Data Science Support and Policies](https://canvas.its.virginia.edu/courses/152505/pages/school-of-data-science-support-and-policies)
+  - [University Support and Politices](https://canvas.its.virginia.edu/courses/152505/pages/university-support-and-policies)
 
 --------------
 
@@ -18,7 +23,6 @@
 
 - High Dimensional Probability (Vershynin) ([PDF](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf))
 
-- [Canvas site](https://canvas.its.virginia.edu/courses/152505)
 
 **Additional Resources**
 
