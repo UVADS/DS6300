@@ -66,6 +66,10 @@
 
 - Read G&S 1.1 - 1.4
 
+<u>Sep 01 2025</u>: Probability spaces
+
+- Read G&S 1.5 and 1.7
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
