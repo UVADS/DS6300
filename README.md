@@ -70,6 +70,11 @@
 
 - Read G&S 1.5 and 1.7
 
+<u>Sep 03 2025</u>: Probabilistic reasoning
+
+- Read G&S 1.1 - 1.3
+- HW 01 assigned (due 09/10/2025 at 9:30 am)
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
