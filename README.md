@@ -73,7 +73,7 @@
 <u>Sep 03 2025</u>: Probabilistic reasoning
 
 - Read G&S 2.1 - 2.3
-- HW 01 assigned (due 09/10/2025 at 9:30 am)
+- [HW 01 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16014973) (due 09/10/2025 at 9:30 am)
 
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
