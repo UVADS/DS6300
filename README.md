@@ -4,7 +4,7 @@
 
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
   - Lecture: Mon, Wed 9:30 - 10:45 am Data Science Building 246
-  - Office hours: Tu 10:00 - 11:00 am, Data Science Building 347
+  - Office hours: Tu 12:30 - 1:30 pm, Data Science Building 347
 - Teaching Assistant: [Marco Gutierrez Chavez](https://datascience.virginia.edu/people/marco-gutierrez-chavez) (sgw3fy@virginia.edu)
   - Office hours: Th 6:30 - 7:30 pm, Data Science Building 246
 - [Canvas site](https://canvas.its.virginia.edu/courses/152505)
@@ -25,6 +25,8 @@
 
 
 **Additional Resources**
+
+- [Course notes](https://canvas.its.virginia.edu/courses/152505/files/folder/Notes)
 
 - [Joe Blitzstein's Statistics 110 course materials](https://stat110.hsites.harvard.edu)
 
@@ -74,6 +76,10 @@
 
 - Read G&S 2.1 - 2.3
 - [HW 01 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16014973) (due 09/10/2025 at 9:30 am)
+
+<u>Sep 08 2025</u>: Random variables
+
+- No reading assignment. Finish HW 01.
 
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
