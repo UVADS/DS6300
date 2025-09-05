@@ -28,6 +28,8 @@
 
 - [Course notes](https://canvas.its.virginia.edu/courses/152505/files/folder/Notes)
 
+- [Course code snippets](https://canvas.its.virginia.edu/courses/152505/files/folder/Code)
+
 - [Joe Blitzstein's Statistics 110 course materials](https://stat110.hsites.harvard.edu)
 
 - [Applied Stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
