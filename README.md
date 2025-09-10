@@ -83,6 +83,11 @@
 
 - No reading assignment. Finish HW 01.
 
+<u>Sep 10 2025</u>: Working with random variables
+
+- Read G&S 2.5 and 2.6
+- [HW 02 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16156492)
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
