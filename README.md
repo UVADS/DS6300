@@ -83,7 +83,7 @@
 
 - No reading assignment. Finish HW 01.
 
-<u>Sep 10 2025</u>: Working with random variables
+<u>Sep 10 2025</u>: Distribution functions
 
 - Read G&S 2.5 and 2.6
 - [HW 02 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16156492) (due 09/17/2025 at 9:30 am)
