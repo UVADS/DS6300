@@ -23,12 +23,14 @@
 
 - High Dimensional Probability (Vershynin) ([PDF](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf))
 
-
-**Additional Resources**
-
 - [Course notes](https://canvas.its.virginia.edu/courses/152505/files/folder/Notes)
 
 - [Course code snippets](https://canvas.its.virginia.edu/courses/152505/files/folder/Code)
+
+- [Course reading quizzes](https://canvas.its.virginia.edu/courses/152505/files/folder/Reading%20Quizzes)
+
+
+**Additional Resources**
 
 - [Joe Blitzstein's Statistics 110 course materials](https://stat110.hsites.harvard.edu)
 
