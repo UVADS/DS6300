@@ -90,6 +90,16 @@
 - Read G&S 2.5 and 2.6
 - [HW 02 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16156492) (due 09/17/2025 at 9:30 am)
 
+<u>Sep 15 2025</u>: Multiple random variables, Buffon's needle
+
+- Read G&S 3.1-3.2 and 4.1-4.2
+- Finish HW 02
+
+<u>Sep 17 2025</u>: Independence and common random variables
+
+- Reading assignment TBD
+- HW 03 assigned
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
