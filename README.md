@@ -80,6 +80,7 @@
 
 - Read G&S 2.1 - 2.3
 - [HW 01 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16014973) (due 09/10/2025 at 9:30 am)
+  - [Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16121273)
 
 <u>Sep 08 2025</u>: Random variables
 
