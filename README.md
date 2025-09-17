@@ -79,7 +79,7 @@
 <u>Sep 03 2025</u>: Probabilistic reasoning
 
 - Read G&S 2.1 - 2.3
-- [HW 01 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16014973) (due 09/10/2025 at 9:30 am) [ [Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16121273) ]
+- [HW 01 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16014973) (due 09/10/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16121273)]
 
 <u>Sep 08 2025</u>: Random variables
 
@@ -88,11 +88,11 @@
 <u>Sep 10 2025</u>: Distribution functions
 
 - Read G&S 2.5 and 2.6
-- [HW 02 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16156492) (due 09/17/2025 at 9:30 am)
+- [HW 02 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16156492) (due 09/17/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16254264)]
 
 <u>Sep 15 2025</u>: Multiple random variables, Buffon's needle
 
-- Read G&S 3.1-3.2 and 4.1-4.2
+- Read G&S 3.1 - 3.2 and 4.1 - 4.2
 - Finish HW 02
 
 <u>Sep 17 2025</u>: Independence and common random variables
