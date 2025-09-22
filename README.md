@@ -100,6 +100,16 @@
 - Read G&S 3.3
 - [HW 03 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2003?preview=16267095) (due 09/24/2025 at 9:30 am)
 
+<u>Sep 22 2025</u>: Practice problems, mean and variance
+
+- No reading assignment
+- Finish HW 03
+
+<u>Sep 24 2025</u>: Mean, variance, and moment derivations
+
+- Reading TBD
+- HW 04 assigned
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
