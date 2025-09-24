@@ -107,8 +107,8 @@
 
 <u>Sep 24 2025</u>: Mean, variance, and moment derivations
 
-- Reading TBD
-- HW 04 assigned
+- Read G&S 4.4
+- [HW 04 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16413848)
 
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
