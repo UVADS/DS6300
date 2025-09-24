@@ -98,7 +98,7 @@
 <u>Sep 17 2025</u>: Independence and common random variables
 
 - Read G&S 3.3
-- [HW 03 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2003?preview=16267095) (due 09/24/2025 at 9:30 am)
+- [HW 03 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2003?preview=16267095) (due 09/24/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2003?preview=16413859)]
 
 <u>Sep 22 2025</u>: Practice problems, mean and variance
 
@@ -108,7 +108,7 @@
 <u>Sep 24 2025</u>: Mean, variance, and moment derivations
 
 - Read G&S 4.4
-- [HW 04 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16413848)
+- [HW 04 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16413848) (due 10/01/2025 at 9:30 am)
 
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
