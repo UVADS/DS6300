@@ -110,6 +110,16 @@
 - Read G&S 4.4
 - [HW 04 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16417856) (due 10/01/2025 at 9:30 am)
 
+<u>Sep 29 2025</u>: Moments of random variables
+
+- Read Blitzstein and Hwang 6.4
+- Finish HW 04
+
+<u>Oct 01 2025</u>: Moment generating functions
+
+- Reading assignment TBD
+- HW 05 assigned
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
