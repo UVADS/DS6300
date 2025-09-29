@@ -21,6 +21,8 @@
 
 - Introduction to Probability for Computing (Harchol-Balter) ([PDF](http://www.cs.cmu.edu/~harchol/Probability/chapters/HarcholBalterWholeBook.pdf))
 
+- Introduction to Probability (Blitzstein and Hwang) ([PDF](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit))
+
 - High Dimensional Probability (Vershynin) ([PDF](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf))
 
 - [Course notes](https://canvas.its.virginia.edu/courses/152505/files/folder/Notes)
