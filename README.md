@@ -4,7 +4,7 @@
 
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
   - Lecture: Mon, Wed 9:30 - 10:45 am Data Science Building 246
-  - Office hours: Tu 12:30 - 1:30 pm, Data Science Building 347
+  - Office hours: Mon 1:00 - 2:00 pm, Data Science Building 347
 - Teaching Assistant: [Marco Gutierrez Chavez](https://datascience.virginia.edu/people/marco-gutierrez-chavez) (sgw3fy@virginia.edu)
   - Office hours: Th 6:30 - 7:30 pm, Data Science Building 246
 - [Canvas site](https://canvas.its.virginia.edu/courses/152505)
