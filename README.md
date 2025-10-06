@@ -120,7 +120,7 @@
 <u>Oct 01 2025</u>: Moment generating functions
 
 - No reading assignment
-- [HW 05 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2005?preview=16516026) (due 10/08/2025 at 9:30 am)
+- [HW 05 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2005?preview=16595351) (due 10/08/2025 at 9:30 am)
 
 <u>Oct 06 2025</u>: Weak law of large numbers
 
