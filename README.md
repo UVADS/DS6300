@@ -122,6 +122,11 @@
 - No reading assignment
 - [HW 05 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2005?preview=16516026) (due 10/08/2025 at 9:30 am)
 
+<u>Oct 06 2025</u>: Weak law of large numbers
+
+- Read Blitzstein and Hwang 10.3
+- Finish HW 05
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
