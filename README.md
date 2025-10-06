@@ -127,6 +127,11 @@
 - Read Blitzstein and Hwang 10.3
 - Finish HW 05
 
+<u> Oct 08 2025</u>: Central Limit Theorem
+
+- No reading assignment
+- HW 06 assigned (due 10/15/2025 at 9:30 am)
+
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
 <u>Oct 22 2025</u>: Midterm exam
