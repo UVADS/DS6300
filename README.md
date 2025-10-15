@@ -136,7 +136,7 @@
 
 <u>Oct 15 2025</u>: Conditional densities, conditional expectation
 
-- Reading assignment TBD
+- No reading assignment
 - No homework assigned
 
 <u>Oct 20 2025</u>: Midterm review
