@@ -141,7 +141,7 @@
 
 <u>Oct 20 2025</u>: Midterm review
 
-<u>Oct 22 2025</u>: Midterm exam
+<u>Oct 22 2025</u>: Midterm exam [Cheat sheet](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams?preview=16718696)
 
 <u>Nov 26 2025</u>: Thanksgiving recess (no class)
 
