@@ -110,7 +110,7 @@
 <u>Sep 24 2025</u>: Mean, variance, and moment derivations
 
 - Read G&S 4.4
-- [HW 04 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16417856) (due 10/01/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16463353)]
+- [HW 04 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16417856) (due 10/01/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16809878)]
 
 <u>Sep 29 2025</u>: Moments of random variables
 
