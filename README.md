@@ -130,7 +130,7 @@
 <u> Oct 08 2025</u>: Central Limit Theorem
 
 - No reading assignment
-- [HW 06 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2006?preview=16628806) (due 10/15/2025 at 9:30 am)
+- [HW 06 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2006?preview=16628806) (due 10/15/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2006?preview=16768449)]
 
 <u>Oct 13 2025</u>: Fall reading day (no class)
 
