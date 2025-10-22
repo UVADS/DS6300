@@ -148,7 +148,7 @@
 <u>Oct 22 2025</u>: Midterm exam
 
 - No reading assignment
-- [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862100) (due 10/29/2025 at 5:00 pm)
+- [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862208) (due 10/29/2025 at 5:00 pm)
 
 <u>Nov 26 2025</u>: Thanksgiving recess (no class)
 
