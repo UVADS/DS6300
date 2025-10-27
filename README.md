@@ -149,7 +149,34 @@
 - No reading assignment
 - [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862208) (due 10/29/2025 at 5:00 pm)
 
+<u>Oct 27 2025</u>:
+
+- Read Harchol-Balter Chapter 24, 24.1 - 24.3
+- Finish HW 07
+
+[//]: # <u>Oct 29 2025</u>:
+
+[//]: # <u>Nov 03 2025</u>:
+
+[//]: # <u>Nov 05 2025</u>:
+
+[//]: # <u>Nov 10 2025</u>:
+
+[//]: # <u>Nov 12 2025</u>:
+
+[//]: # <u>Nov 17 2025</u>:
+
+[//]: # <u>Nov 19 2025</u>:
+
+[//]: # <u>Nov 24 2025</u>:
+
 <u>Nov 26 2025</u>: Thanksgiving recess (no class)
+
+[//]: # <u>Dec 01 2025</u>:
+
+[//]: # <u>Dec 03 2025</u>:
+
+[//]: # <u>Dec 08 2025</u>:
 
 <u>Dec 13 2025</u>: Final exam (2:00 - 5:00 pm Data Science Building 246)
 
