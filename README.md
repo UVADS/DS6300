@@ -149,7 +149,7 @@
 - No reading assignment
 - [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862208) (due 10/29/2025 at 5:00 pm)
 
-<u>Oct 27 2025</u>:
+<u>Oct 27 2025</u>: Conditional probability, simulation
 
 - Read Harchol-Balter Chapter 24, 24.1 - 24.3
 - Finish HW 07
