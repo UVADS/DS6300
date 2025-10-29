@@ -157,7 +157,7 @@
 <u>Oct 29 2025</u>: Markov Chains
 
 - Read Harchol-Balter Chapter 24, 24.4 - 24.6
-- [HW 08 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2008?preview=16987670) (due 11/05/2025 at 9:30 am)
+- [HW 08 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2008?preview=16991625) (due 11/05/2025 at 9:30 am)
 
 [//]: # <u>Nov 03 2025</u>:
 
