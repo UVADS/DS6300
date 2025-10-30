@@ -147,19 +147,21 @@
 <u>Oct 22 2025</u>: Midterm exam [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams?preview=16864155)]
 
 - No reading assignment
-- [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862208) (due 10/29/2025 at 5:00 pm)
+- [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862208) (due 10/29/2025 at 5:00 pm) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16900462)]
 
 <u>Oct 27 2025</u>: Conditional probability, simulation
 
 - Read Harchol-Balter Chapter 24, 24.1 - 24.3
 - Finish HW 07
 
-<u>Oct 29 2025</u>: Markov Chains
+<u>Oct 29 2025</u>: Markov chains
 
 - Read Harchol-Balter Chapter 24, 24.4 - 24.6
 - [HW 08 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2008?preview=16991828) (due 11/05/2025 at 9:30 am)
 
-[//]: # <u>Nov 03 2025</u>:
+<u>Nov 03 2025</u>: Markov chain examples, aperiodicity, and irreducibility
+
+- Finish HW 08
 
 [//]: # <u>Nov 05 2025</u>:
 
