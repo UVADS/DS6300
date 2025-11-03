@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 ## Theory I: Probability & Stochastic Processes - Fall 2025
 
 ### Course information
@@ -8,10 +13,6 @@
 - Teaching Assistant: [Marco Gutierrez Chavez](https://datascience.virginia.edu/people/marco-gutierrez-chavez) (sgw3fy@virginia.edu)
   - Office hours: Th 6:30 - 7:30 pm, Data Science Building 246
 - [Canvas site](https://canvas.its.virginia.edu/courses/152505)
-- Support and Policies:
-  - [Course Policies](https://canvas.its.virginia.edu/courses/152505/pages/course-policies)
-  - [School of Data Science Support and Policies](https://canvas.its.virginia.edu/courses/152505/pages/school-of-data-science-support-and-policies)
-  - [University Support and Politices](https://canvas.its.virginia.edu/courses/152505/pages/university-support-and-policies)
 
 --------------
 
@@ -159,11 +160,14 @@
 - Read Harchol-Balter Chapter 24, 24.4 - 24.6
 - [HW 08 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2008?preview=16991828) (due 11/05/2025 at 9:30 am)
 
-<u>Nov 03 2025</u>: Markov chain examples, aperiodicity, and irreducibility
+<u>Nov 03 2025</u>: Markov chain examples, autocorrelation
 
+- No reading assignment
 - Finish HW 08
 
-[//]: # <u>Nov 05 2025</u>:
+<u>Nov 05 2025</u>: Aperiodicity, irreducibility, and the Ergodic Theorem
+
+- HW 09 assigned
 
 [//]: # <u>Nov 10 2025</u>:
 
@@ -210,4 +214,34 @@ Grading scale:
 
 *Note that a B- is the lowest satisfactory grade for graduate credit.*
 
+### Course Policies
 
+**Submitting Homework**
+
+Homework will be accepted through the Assignments page on Canvas. Submissions will be in PDF format. You may hand-write and scan problem solutions, or you may use a typesetting software like LaTeX, Markdown, etc. Some homework assignments will involve using code to produce graphical or numerical outputs and will require the use of software. Please compile all materials in a single PDF for submission and make sure that whatever you have written can be clearly read by the grader. 
+
+Grades for (on-time) homework will be made visible to students no later than one week after the assignment due date. Grades for late work (see below) will become available as time permits.
+
+**Late Work Policy**
+
+The expectation in this course is that all assignments will be submitted on time. Submitting your work on time respects the efforts of your instructor and teaching assistant, and it ensures that you are prepared to learn subsequent material.
+
+Assignments turned in after the due date incur a 10% penalty per late day. For example, an assignment due at 9:30 am on Wednesday that is submitted to Canvas at 3:00 pm on Friday will incur a 30% penalty. If the assignment would have received a 95% had it been returned on time, then the late grade is 65%. Note that weekend days count towards the late penalty.
+
+I will not accept work that is late by more than one week past its due date. 
+
+*To provide flexibility for weeks in which life circumstances do not permit the completion of your coursework, your lowest homework grade will be dropped. Additionally, your two lowest reading quiz grades will be dropped.*
+
+**Class Attendance**
+
+Attendance in this class is mandatory. If you need to miss a class for any reason, please email me in advance. You are responsible for keeping up with the lecture material, but I am happy to work with you during office hours or by appointment to brush up on things you may have missed.
+
+**Extenuating Circumstances**
+
+Students are expected to communicate with me as soon as possible regarding extenuating circumstances and how their participation in the course, including attendance and assignment submissions, may be affected by them.
+
+### University Support and Policies
+
+  - [School of Data Science Support and Policies](https://canvas.its.virginia.edu/courses/152505/pages/school-of-data-science-support-and-policies)
+  
+  - [University Support and Politices](https://canvas.its.virginia.edu/courses/152505/pages/university-support-and-policies)
