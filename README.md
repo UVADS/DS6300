@@ -162,6 +162,7 @@
 
 <u>Nov 05 2025</u>: Aperiodicity, irreducibility, and the Ergodic Theorem
 
+- No reading assignment
 - [HW 09 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2009?preview=17089454) (due 11/12/2025 at 9:30 am)
 
 [//]: # <u>Nov 10 2025</u>:
