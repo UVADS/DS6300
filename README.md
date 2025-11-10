@@ -165,7 +165,10 @@
 - No reading assignment
 - [HW 09 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2009?preview=17089454) (due 11/12/2025 at 9:30 am)
 
-[//]: # <u>Nov 10 2025</u>:
+<u>Nov 10 2025</u>: MCMC and Metropolis Hastings
+
+- Read [A History of the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/30037292?seq=3)
+- Finish HW 09
 
 [//]: # <u>Nov 12 2025</u>:
 
