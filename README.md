@@ -170,9 +170,13 @@
 - Read [A History of the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/30037292?seq=3)
 - Finish HW 09
 
-[//]: # <u>Nov 12 2025</u>:
+<u>Nov 12 2025</u>: Metropolis Hastings examples
 
-[//]: # <u>Nov 17 2025</u>:
+- Finish reading [A History of the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/30037292?seq=3)
+
+<u>Nov 17 2025</u>: Discussion and conclusion of Markov processes
+
+- HW 10 assigned
 
 [//]: # <u>Nov 19 2025</u>:
 
