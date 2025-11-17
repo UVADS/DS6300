@@ -176,7 +176,7 @@
 
 <u>Nov 17 2025</u>: Discussion and conclusion of Markov processes
 
-- [HW 10 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2010?preview=17321718) (due 11/25/2025 at 11:59 pm)
+- [HW 10 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2010?preview=17321730) (due 11/25/2025 at 11:59 pm)
 
 [//]: # <u>Nov 19 2025</u>:
 
