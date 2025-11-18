@@ -163,7 +163,7 @@
 <u>Nov 05 2025</u>: Aperiodicity, irreducibility, and the Ergodic Theorem
 
 - No reading assignment
-- [HW 09 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2009?preview=17089454) (due 11/12/2025 at 9:30 am)
+- [HW 09 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2009?preview=17089454) (due 11/12/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2009?preview=17331227)]
 
 <u>Nov 10 2025</u>: MCMC and Metropolis Hastings
 
@@ -178,9 +178,12 @@
 
 - [HW 10 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2010?preview=17321730) (due 11/25/2025 at 11:59 pm)
 
-[//]: # <u>Nov 19 2025</u>:
+<u>Nov 19 2025</u>: Introduction to concentration inequalities
 
-[//]: # <u>Nov 24 2025</u>:
+- Reading TBD
+- Finish HW 10
+
+<u>Nov 24 2025</u>:
 
 <u>Nov 26 2025</u>: Thanksgiving recess (no class)
 
