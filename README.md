@@ -183,7 +183,7 @@
 - Reading TBD
 - Finish HW 10
 
-<u>Nov 24 2025</u>:
+<u>Nov 24 2025</u>: Hoeffding and Chernoff inequality
 
 <u>Nov 26 2025</u>: Thanksgiving recess (no class)
 
