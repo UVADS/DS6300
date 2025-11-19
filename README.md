@@ -180,7 +180,7 @@
 
 <u>Nov 19 2025</u>: Introduction to concentration inequalities
 
-- Reading TBD
+- No reading assignment
 - Finish HW 10
 
 <u>Nov 24 2025</u>: Hoeffding and Chernoff inequality
