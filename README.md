@@ -137,10 +137,10 @@
 
 <u>Oct 20 2025</u>: Midterm review
 
-- [[Cheat sheet](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams?preview=16718696)]
-- [[Practice problems](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams?preview=16726471)]
+- [[Cheat sheet](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Midterm?preview=16718696)]
+- [[Practice problems](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Midterm?preview=16726471)]
 
-<u>Oct 22 2025</u>: Midterm exam [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams?preview=16864155)]
+<u>Oct 22 2025</u>: Midterm exam [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Midterm?preview=16864155)]
 
 - No reading assignment
 - [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862208) (due 10/29/2025 at 5:00 pm) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16900462)]
@@ -187,11 +187,13 @@
 
 <u>Nov 26 2025</u>: Thanksgiving recess (no class)
 
-[//]: # <u>Dec 01 2025</u>:
+<u>Dec 03 2025</u>: Sub-Gaussian and sub-exponential random variables
 
-[//]: # <u>Dec 03 2025</u>:
+<u>Dec 05 2025</u>: Optional makeup lecture (SDS 246 1:00 pm)
 
-[//]: # <u>Dec 08 2025</u>:
+<u>Dec 08 2025</u>: Final exam review
+
+- [[Practice problems](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Final?preview=17581651)]
 
 <u>Dec 13 2025</u>: Final exam (2:00 - 5:00 pm Data Science Building 246)
 
