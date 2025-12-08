@@ -193,8 +193,8 @@
 
 <u>Dec 08 2025</u>: Final exam review
 
-- [[Practice problems](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Final?preview=17632273)]
-- [[Cheat sheet](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Final?preview=17632477)]
+- [[Practice problems](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Final?preview=17644292)]
+- [[Cheat sheet](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Final?preview=17644303)]
 
 <u>Dec 13 2025</u>: Final exam (2:00 - 5:00 pm Data Science Building 246)
 
