@@ -7,7 +7,7 @@
   - Office hours: TBD
 - Teaching Assistant: Nick Settembrine (rgs3ru@virginia.edu)
   - Office hours: TBD
-- [Canvas site]()
+- [Canvas site](https://canvas.its.virginia.edu/courses/181212?for_reload=1)
 
 --------------
 
