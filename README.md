@@ -4,9 +4,9 @@
 
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
   - Lecture: Mon, Wed 9:30 - 10:45 am Data Science Building 300
-  - Office hours: TBD
+  - Office hours: Tue 1:00 - 2:00 pm Data Science Building 347
 - Teaching Assistant: Nick Settembrine (rgs3ru@virginia.edu)
-  - Office hours: TBD
+  - Office hours: Mon 5:00 - 6:00 pm
 - [Canvas site](https://canvas.its.virginia.edu/courses/181212?for_reload=1)
 
 --------------
