@@ -1,13 +1,13 @@
-## Theory I: Probability & Stochastic Processes - Fall 2025
+## Theory I: Probability & Stochastic Processes - Fall 2026
 
 ### Course information
 
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
-  - Lecture: Mon, Wed 9:30 - 10:45 am Data Science Building 246
-  - Office hours: Mon 1:00 - 2:00 pm, Data Science Building 347
-- Teaching Assistant: [Marco Gutierrez Chavez](https://datascience.virginia.edu/people/marco-gutierrez-chavez) (sgw3fy@virginia.edu)
-  - Office hours: Th 6:30 - 7:30 pm, Data Science Building 246
-- [Canvas site](https://canvas.its.virginia.edu/courses/152505)
+  - Lecture: Mon, Wed 9:30 - 10:45 am Data Science Building 300
+  - Office hours: TBD
+- Teaching Assistant: Nick Settembrine (rgs3ru@virginia.edu)
+  - Office hours: TBD
+- [Canvas site]()
 
 --------------
 
@@ -15,17 +15,11 @@
 
 - Probability and Random Processes (Grimmett and Stirzaker) ([PDF](http://old-eclass.uop.gr/modules/document/file.php/TST244/%5BGeoffrey_R._Grimmett%2C_David_R._Stirzaker%5D_Probabi(BookZZ.org).pdf))
 
-- Introduction to Probability for Computing (Harchol-Balter) ([PDF](http://www.cs.cmu.edu/~harchol/Probability/chapters/HarcholBalterWholeBook.pdf))
-
 - Introduction to Probability (Blitzstein and Hwang) ([PDF](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit))
 
 - High Dimensional Probability (Vershynin) ([PDF](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf))
 
-- [Course notes](https://canvas.its.virginia.edu/courses/152505/files/folder/Notes)
-
-- [Course code snippets](https://canvas.its.virginia.edu/courses/152505/files/folder/Code)
-
-- [Course reading quizzes](https://canvas.its.virginia.edu/courses/152505/files/folder/Reading%20Quizzes)
+- Course notes
 
 
 **Additional Resources**
@@ -33,6 +27,8 @@
 - [Joe Blitzstein's Statistics 110 course materials](https://stat110.hsites.harvard.edu)
 
 - [Applied Stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
+
+- [Introduction to Probability for Computing](http://www.cs.cmu.edu/~harchol/Probability/chapters/HarcholBalterWholeBook.pdf)
 
 
 --------------
@@ -48,6 +44,7 @@
     - Probability distributions
     - Expectation, variance, and moments
     - Multiple random variables, covariance, and correlation
+    - Transformation of variables
 
 3. Limit theorems
     - Sums of random variables
@@ -56,7 +53,7 @@
   
 4. Stochastic processes
     - Markov processes
-    - Poisson processes
+    - Ergodic theorem
   
 5. Tail bounds
     - Concentration inequalities
@@ -66,137 +63,74 @@
 
 ### Schedule
 
-<u>Aug 27 2025</u>: Course overview
+<u>Aug 26 2026</u>: Course overview
 
-- Read G&S 1.1 - 1.4
+[//]: # <u>Aug 31 2026</u>:
 
-<u>Sep 01 2025</u>: Probability spaces
+[//]: # <u>Sep 02 2026</u>:
 
-- Read G&S 1.5 and 1.7
+<u>Sep 07 2026</u>: (Labor Day, *class still meets*)
 
-<u>Sep 03 2025</u>: Probabilistic reasoning
+[//]: # <u>Sep 09 2026</u>:
 
-- Read G&S 2.1 - 2.3
-- [HW 01 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16014973) (due 09/10/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2001?preview=16121273)]
+[//]: # <u>Sep 14 2026</u>:
 
-<u>Sep 08 2025</u>: Random variables
+[//]: # <u>Sep 16 2026</u>:
 
-- No reading assignment. Finish HW 01.
+[//]: # <u>Sep 21 2026</u>:
 
-<u>Sep 10 2025</u>: Distribution functions
+[//]: # <u>Sep 23 2026</u>:
 
-- Read G&S 2.5 and 2.6
-- [HW 02 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16156492) (due 09/17/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2002?preview=16254264)]
+[//]: # <u>Sep 28 2026</u>:
 
-<u>Sep 15 2025</u>: Multiple random variables, Buffon's needle
+[//]: # <u>Sep 30 2026</u>:
 
-- Read G&S 3.1 - 3.2 and 4.1 - 4.2
-- Finish HW 02
+<u>Oct 05 2026</u>: Fall reading days (no class)
 
-<u>Sep 17 2025</u>: Independence and common random variables
+[//]: # <u>Oct 07 2026</u>:
 
-- Read G&S 3.3
-- [HW 03 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2003?preview=16267095) (due 09/24/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2003?preview=16459209)]
+[//]: # <u>Oct 12 2026</u>:
 
-<u>Sep 22 2025</u>: Practice problems, mean and variance
+[//]: # <u>Oct 14 2026</u>:
 
-- No reading assignment
-- Finish HW 03
+[//]: # <u>Oct 19 2026</u>:
 
-<u>Sep 24 2025</u>: Mean, variance, and moment derivations
+[//]: # <u>Oct 21 2026</u>:
 
-- Read G&S 4.4
-- [HW 04 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16417856) (due 10/01/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2004?preview=16809878)]
+[//]: # <u>Oct 26 2026</u>:
 
-<u>Sep 29 2025</u>: Moments of random variables
+[//]: # <u>Oct 28 2026</u>:
 
-- Read Blitzstein and Hwang 6.4
-- Finish HW 04
+[//]: # <u>Nov 02 2026</u>:
 
-<u>Oct 01 2025</u>: Moment generating functions
+[//]: # <u>Nov 04 2026</u>:
 
-- No reading assignment
-- [HW 05 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2005?preview=16595351) (due 10/08/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2005?preview=16516031)]
+[//]: # <u>Nov 09 2026</u>:
 
-<u>Oct 06 2025</u>: Weak law of large numbers
+[//]: # <u>Nov 11 2026</u>:
 
-- Read Blitzstein and Hwang 10.3
-- Finish HW 05
+[//]: # <u>Nov 16 2026</u>:
 
-<u> Oct 08 2025</u>: Central Limit Theorem
+[//]: # <u>Nov 18 2026</u>:
 
-- No reading assignment
-- [HW 06 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2006?preview=16628806) (due 10/15/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2006?preview=16768449)]
+[//]: # <u>Nov 23 2026</u>:
 
-<u>Oct 13 2025</u>: Fall reading day (no class)
+<u>Nov 25 2026</u>: Thanksgiving recess (no class)
 
-<u>Oct 15 2025</u>: Conditional densities, conditional expectation
+[//]: # <u>Nov 30 2026</u>:
 
-- No reading assignment
-- No homework assigned
+[//]: # <u>Dec 02 2026</u>:
 
-<u>Oct 20 2025</u>: Midterm review
+<u>Dec 07 2026</u>: (last class meeting)
 
-- [[Cheat sheet](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Midterm?preview=16718696)]
-- [[Practice problems](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Midterm?preview=16726471)]
+[//]: # <u>Dec 09 2026</u>:
 
-<u>Oct 22 2025</u>: Midterm exam [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Midterm?preview=16864155)]
+[//]: # <u>Dec 14 2026</u>:
 
-- No reading assignment
-- [HW 07 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16862208) (due 10/29/2025 at 5:00 pm) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2007?preview=16900462)]
+[//]: # <u>Dec 16 2026</u>:
 
-<u>Oct 27 2025</u>: Conditional probability, simulation
+<u>Dec 18 2026</u>: Final exam 2:00 pm - 5:00 pm
 
-- Read Harchol-Balter Chapter 24, 24.1 - 24.3
-- Finish HW 07
-
-<u>Oct 29 2025</u>: Markov chains
-
-- Read Harchol-Balter Chapter 24, 24.4 - 24.6
-- [HW 08 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2008?preview=16991828) (due 11/05/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2008?preview=16992180)]
-
-<u>Nov 03 2025</u>: Markov chain examples, autocorrelation
-
-- No reading assignment
-- Finish HW 08
-
-<u>Nov 05 2025</u>: Aperiodicity, irreducibility, and the Ergodic Theorem
-
-- No reading assignment
-- [HW 09 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2009?preview=17089454) (due 11/12/2025 at 9:30 am) [[Solutions](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2009?preview=17331227)]
-
-<u>Nov 10 2025</u>: MCMC and Metropolis Hastings
-
-- Read [A History of the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/30037292?seq=3)
-- Finish HW 09
-
-<u>Nov 12 2025</u>: Metropolis Hastings examples
-
-- Finish reading [A History of the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/30037292?seq=3)
-
-<u>Nov 17 2025</u>: Discussion and conclusion of Markov processes
-
-- [HW 10 assigned](https://canvas.its.virginia.edu/courses/152505/files/folder/Homework/HW%2010?preview=17321730) (due 11/25/2025 at 11:59 pm)
-
-<u>Nov 19 2025</u>: Introduction to concentration inequalities
-
-- No reading assignment
-- Finish HW 10
-
-<u>Nov 24 2025</u>: Hoeffding and Chernoff inequality
-
-<u>Nov 26 2025</u>: Thanksgiving recess (no class)
-
-<u>Dec 03 2025</u>: Sub-Gaussian and sub-exponential random variables
-
-<u>Dec 05 2025</u>: Optional makeup lecture (SDS 246 1:00 pm)
-
-<u>Dec 08 2025</u>: Final exam review
-
-- [[Practice problems](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Final?preview=17650369)]
-- [[Cheat sheet](https://canvas.its.virginia.edu/courses/152505/files/folder/Exams/Final?preview=17650374)]
-
-<u>Dec 13 2025</u>: Final exam (2:00 - 5:00 pm Data Science Building 246)
 
 --------------
 
@@ -204,8 +138,8 @@
 
 Final grades will be computed using the following weighting of assignments and exams:
 
-- Homework (40%)
-- Reading quizzes (10%)
+- Attendance (10%)
+- Homework assessments (40%)
 - Midterm exam (20%)
 - Final exam (30%)
 
@@ -225,32 +159,44 @@ Grading scale:
 
 ### Course Policies
 
-**Submitting Homework**
+**Homework assessments**
 
-Homework will be accepted through the Assignments page on Canvas. Submissions will be in PDF format. You may hand-write and scan problem solutions, or you may use a typesetting software like LaTeX, Markdown, etc. Some homework assignments will involve using code to produce graphical or numerical outputs and will require the use of software. Please compile all materials in a single PDF for submission and make sure that whatever you have written can be clearly read by the grader. 
+You should expect that homework will be assigned each Wednesday and due the following Wednesday. Homework assignments will consist of a PDF posted to Canvas containing exercises for you to solve. There will be 6-8 exercises per homework assignment, and you can expect that there will be 10 homework assignments over the course of the semester.
 
-Grades for (on-time) homework will be made visible to students no later than one week after the assignment due date. Grades for late work (see below) will become available as time permits.
+Subject to the Academic Integrity conditions below, homework problems may be completed in any manner you see fit. While I strongly encourage you to write out your solutions in some form (e.g. pen and paper, LaTeX) *you are not required to turn in your completed homework solutions*. Instead, homework will be assessed in class as follows:
 
-**Late Work Policy**
+The first 10 minutes of each class session on Wednesdays will be reserved for homework assessment. I will provide you with a sheet of paper containing 1 exercise from the week's homework assignment (or sub-problems thereof), and you will write your solution on it. You will not know which exercise will be selected for assessment in advance. However, to make this a fair and fruitful learning exercise, I will provide scaffolding when necessary to ensure that the solution can be written in 10 minutes. Scaffolding may include hints, reminders of useful facts, or even partial solutions where you fill in what remains.
 
-The expectation in this course is that all assignments will be submitted on time. Submitting your work on time respects the efforts of your instructor and teaching assistant, and it ensures that you are prepared to learn subsequent material.
-
-Assignments turned in after the due date incur a 10% penalty per late day. For example, an assignment due at 9:30 am on Wednesday that is submitted to Canvas at 3:00 pm on Friday will incur a 30% penalty. If the assignment would have received a 95% had it been returned on time, then the late grade is 65%. Note that weekend days count towards the late penalty.
-
-I will not accept work that is late by more than one week past its due date. 
-
-*To provide flexibility for weeks in which life circumstances do not permit the completion of your coursework, your lowest homework grade will be dropped. Additionally, your two lowest reading quiz grades will be dropped.*
+*To provide flexibility for weeks in which life circumstances do not permit the completion of your coursework to the best of your ability, your two lowest homework assessment grades will be dropped.*
 
 **Class Attendance**
 
-Attendance in this class is mandatory. If you need to miss a class for any reason, please email me in advance. You are responsible for keeping up with the lecture material, but I am happy to work with you during office hours or by appointment to brush up on things you may have missed.
+Attendance in this class is mandatory. If you need to miss a class for any reason, please email me in advance. Part of attending class is attending all of the class meeting time. Please be respectful of me and your fellow classmates by showing up on time.
+
+With respect to both attendance and tardiness, there are no fixed penalties associated with a single missed class or a single late entry. There are legitimate reasons to miss class or to be late to class. Making either of these a habit, though, will result in deductions from your attendance grade.
+
+While you are ultimately responsible for keeping up with any lecture material you may miss by consulting classmates, reading lecture notes, reading the course textbooks, etc., I am also happy to work with you during office hours or by appointment to help you stay on track.
 
 **Extenuating Circumstances**
 
-Students are expected to communicate with me as soon as possible regarding extenuating circumstances and how their participation in the course, including attendance and assignment submissions, may be affected by them.
+Students are expected to communicate with me as soon as possible regarding extenuating circumstances and how their participation in the course, including attendance and completion of homework assessments, may be affected by them.
 
-### University Support and Policies
+**Academic Integrity**
 
-  - [School of Data Science Support and Policies](https://canvas.its.virginia.edu/courses/152505/pages/school-of-data-science-support-and-policies)
+I encourage collaboration among students to complete homework assignments. The purpose of collaborating is to help yourself and your classmates learn the material more effectively.
+
+Do not cheat. Cheating circumvents the learning process and deprives you of the chance to gain expertise in your discipline. It also puts you in a position to fail in-class exams, for which you will not be able to use resources outside of your own problem solving ability.
+
+I ask that you:
+
+1. Do not copy text or code from classmates, the internet, or AI systems. Write your own solutions and understand them.
+2. Do not send text or code to classmates or post your solutions in a place where everyone can access them. If you are collaborating with others, you are working together to arrive at a solution.
+3. Try to solve each problem before resorting to outside help. Even if you do not ultimately arrive at a solution completely on your own, starting the solution process by yourself is crucial to learning.
+
+If an action you are considering is not covered by one of these specific asks, please use your own sense of right and wrong to determine whether it constitutes cheating.
+
+### Support and additional Policies
+
+  - [School of Data Science Support and Policies](https://canvas.its.virginia.edu/courses/181212/pages/school-of-data-science-support-and-policies)
   
-  - [University Support and Politices](https://canvas.its.virginia.edu/courses/152505/pages/university-support-and-policies)
+  - [University Support and Politices](https://canvas.its.virginia.edu/courses/181212/pages/university-support-and-policies)
