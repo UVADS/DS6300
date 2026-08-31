@@ -65,11 +65,18 @@
 
 <u>Aug 26 2026</u>: Course overview
 
-[//]: # <u>Aug 31 2026</u>:
+<u>Aug 31 2026</u>: Probability Spaces
 
-[//]: # <u>Sep 02 2026</u>:
+- Reading: G&S 1.1 - 1.4
 
-<u>Sep 07 2026</u>: (Labor Day, *class still meets*)
+<u>Sep 02 2026</u>: Reasoning with probability
+
+- Reading: G&S 1.5 and 1.7
+- HW 01 assigned
+
+<u>Sep 07 2026</u>: Random variables (Labor Day, *class still meets*)
+
+- Reading: G&S 2.1 - 2.3
 
 [//]: # <u>Sep 09 2026</u>:
 
