@@ -6,7 +6,7 @@
   - Lecture: Mon, Wed 9:30 - 10:45 am Data Science Building 300
   - Office hours: Tue 1:00 - 2:00 pm Data Science Building 347
 - Teaching Assistant: Nick Settembrine (rgs3ru@virginia.edu)
-  - Office hours: Mon 5:00 - 6:00 pm
+  - Office hours: Mon 5:00 - 6:00 pm Data Science Building 300
 - [Canvas site](https://canvas.its.virginia.edu/courses/181212?for_reload=1)
 
 --------------
