@@ -19,7 +19,7 @@
 
 - High Dimensional Probability (Vershynin) ([PDF](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf))
 
-- Course notes
+- [Course notes](https://canvas.its.virginia.edu/courses/181212/files/folder/Notes)
 
 
 **Additional Resources**
