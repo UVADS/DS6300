@@ -72,7 +72,7 @@
 <u>Sep 02 2026</u>: Reasoning with probability
 
 - Reading: G&S 1.5 and 1.7
-- HW 01 assigned
+- [HW 01 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW01?preview=20388532) (due 09/09/2026 at 9:30 am)
 
 <u>Sep 07 2026</u>: Random variables (Labor Day, *class still meets*)
 
