@@ -74,11 +74,14 @@
 - Reading: G&S 1.5 and 1.7
 - [HW 01 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW01?preview=20388532) (due 09/09/2026 at 9:30 am)
 
-<u>Sep 07 2026</u>: Random variables (Labor Day, *class still meets*)
+<u>Sep 07 2026</u>: Random variables and distribution functions (Labor Day, *class still meets*)
 
 - Reading: G&S 2.1 - 2.3
 
-[//]: # <u>Sep 09 2026</u>:
+<u>Sep 09 2026</u>: Law of Averages and Monte Carlo
+
+- Reading: G&S 2.5 and 2.6
+- HW 02 assigned
 
 [//]: # <u>Sep 14 2026</u>:
 
