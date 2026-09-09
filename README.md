@@ -81,7 +81,7 @@
 <u>Sep 09 2026</u>: Law of Averages and Monte Carlo
 
 - Reading: G&S 2.5 and 2.6
-- HW 02 assigned
+- [HW 02 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW02?preview=20479915)
 
 [//]: # <u>Sep 14 2026</u>:
 
