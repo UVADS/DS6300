@@ -90,6 +90,7 @@
 <u>Sep 16 2026</u>: Mean, variance, and common random variables
 
 - Reading: G&S 3.3
+- HW 03 assigned (due 09/23/2026 at 9:30 am)
 
 [//]: # <u>Sep 21 2026</u>:
 
