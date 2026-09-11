@@ -83,9 +83,13 @@
 - Reading: G&S 2.5 and 2.6
 - [HW 02 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW02?preview=20479915) (due 09/16/2026 at 9:30 am)
 
-[//]: # <u>Sep 14 2026</u>:
+<u>Sep 14 2026</u>: Multiple random variables, independence, Buffon's needle
 
-[//]: # <u>Sep 16 2026</u>:
+- Reading: G&S 3.1 - 3.2 and 4.1 - 4.2
+
+<u>Sep 16 2026</u>: Mean, variance, and common random variables
+
+- Reading: G&S 3.3
 
 [//]: # <u>Sep 21 2026</u>:
 
