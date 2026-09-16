@@ -81,20 +81,25 @@
 <u>Sep 09 2026</u>: Law of Averages and Monte Carlo
 
 - Reading: G&S 2.5 and 2.6
-- [HW 02 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW02?preview=20546264) (due 09/16/2026 at 9:30 am)
+- [HW 02 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW02?preview=20546264) (due 09/16/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW02?preview=20574018))
 
 <u>Sep 14 2026</u>: Multiple random variables, independence, Buffon's needle
 
 - Reading: G&S 3.1 - 3.2 and 4.1 - 4.2
 
-<u>Sep 16 2026</u>: Mean, variance, and common random variables
+<u>Sep 16 2026</u>: Expectations of random variables
 
 - Reading: G&S 3.3
-- HW 03 assigned (due 09/23/2026 at 9:30 am)
+- [HW 03 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW03?preview=20574003) (due 09/23/2026 at 9:30 am)
 
-[//]: # <u>Sep 21 2026</u>:
+<u>Sep 21 2026</u>: Variance and common random variables
 
-[//]: # <u>Sep 23 2026</u>:
+- Reading: G&S 4.4
+
+<u>Sep 23 2026</u>: Moments of random variables
+
+- Reading: Blitzstein and Hwang 6.4
+- HW 04 assigned
 
 [//]: # <u>Sep 28 2026</u>:
 
