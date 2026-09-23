@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 ## Theory I: Probability & Stochastic Processes - Fall 2026
 
 ### Course information
@@ -90,30 +95,32 @@
 <u>Sep 16 2026</u>: Expectations of random variables
 
 - Reading: G&S 3.3
-- [HW 03 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW03?preview=20574003) (due 09/23/2026 at 9:30 am)
+- [HW 03 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW03?preview=20574003) (due 09/23/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW03?preview=20676001))
 
 <u>Sep 21 2026</u>: Variance and common random variables
 
 - Reading: G&S 4.4
 
-<u>Sep 23 2026</u>: Moments of random variables
+<u>Sep 23 2026</u>: Expectation, variance, and independence
 
 - Reading: Blitzstein and Hwang 6.4
-- HW 04 assigned
+- [HW 04 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW04?preview=20676059)
 
-[//]: # <u>Sep 28 2026</u>:
+<u>Sep 28 2026</u>: Moments of random variables, moment generating functions
 
-[//]: # <u>Sep 30 2026</u>:
+<u>Sep 30 2026</u>: Weak Law of Large Numbers
+
+- HW 05 assigned
 
 <u>Oct 05 2026</u>: Fall reading days (no class)
 
-[//]: # <u>Oct 07 2026</u>:
+[//]: # <u>Oct 07 2026</u>: Central Limit Theorem, HW 06 assigned
 
-[//]: # <u>Oct 12 2026</u>:
+<u>Oct 12 2026</u>: Midterm review
 
-[//]: # <u>Oct 14 2026</u>:
+<u>Oct 14 2026</u>: Midterm exam
 
-[//]: # <u>Oct 19 2026</u>:
+[//]: # <u>Oct 19 2026</u>: Conditional distributions, conditional expectation and variance
 
 [//]: # <u>Oct 21 2026</u>:
 
