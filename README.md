@@ -104,7 +104,7 @@ output:
 <u>Sep 23 2026</u>: Expectation, variance, and independence
 
 - Reading: Blitzstein and Hwang 6.4
-- [HW 04 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW04?preview=20676059)
+- [HW 04 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW04?preview=20676445)
 
 <u>Sep 28 2026</u>: Moments of random variables, moment generating functions
 
