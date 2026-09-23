@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 ## Theory I: Probability & Stochastic Processes - Fall 2026
 
 ### Course information
