@@ -99,13 +99,16 @@
 <u>Sep 23 2026</u>: Expectation, variance, and independence
 
 - Reading: Blitzstein and Hwang 6.4
-- [HW 04 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW04?preview=20676445) (due 09/30/2026 at 9:30 am)
+- [HW 04 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW04?preview=20676445) (due 09/30/2026 at 9:30 am) ([Solution](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW04?preview=20763035))
 
 <u>Sep 28 2026</u>: Moments of random variables, moment generating functions
 
-<u>Sep 30 2026</u>: Weak Law of Large Numbers
+- Reading: Blitzstein and Hwang 6.5
 
-- HW 05 assigned
+<u>Sep 30 2026</u>: MGFs of sums of independent random variables
+
+- Reading: Blitzstein and Hwang 6.6 and 6.8
+- [HW 05 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW05?preview=20763072) (due 10/07/2026 at 9:30 am)
 
 <u>Oct 05 2026</u>: Fall reading days (no class)
 
