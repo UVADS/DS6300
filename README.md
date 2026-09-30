@@ -112,7 +112,9 @@
 
 <u>Oct 05 2026</u>: Fall reading days (no class)
 
-[//]: # <u>Oct 07 2026</u>: Central Limit Theorem, HW 06 assigned
+<u>Oct 07 2026</u>: The limit theorems: WLLN and CLT
+
+- Midterm practice problems given
 
 <u>Oct 12 2026</u>: Midterm review
 
