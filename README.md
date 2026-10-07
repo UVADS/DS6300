@@ -108,13 +108,13 @@
 <u>Sep 30 2026</u>: MGFs of sums of independent random variables
 
 - Reading: Blitzstein and Hwang 6.6 and 6.8
-- [HW 05 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW05?preview=20763072) (due 10/07/2026 at 9:30 am)
+- [HW 05 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW05?preview=20763072) (due 10/07/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW05?preview=20763093))
 
 <u>Oct 05 2026</u>: Fall reading days (no class)
 
 <u>Oct 07 2026</u>: The limit theorems: WLLN and CLT
 
-- Midterm practice problems given
+- [Midterm practice problems](https://canvas.its.virginia.edu/courses/181212/files/folder/Midterm?preview=20893509) given
 
 <u>Oct 12 2026</u>: Midterm review
 
