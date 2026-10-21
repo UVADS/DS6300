@@ -120,25 +120,28 @@
 
 <u>Oct 14 2026</u>: Midterm exam
 
-[//]: # <u>Oct 19 2026</u>: Conditional distributions, conditional expectation and variance
+<u>Oct 19 2026</u>: Conditional probability distributions, conditional expectation and variance
 
-[//]: # <u>Oct 21 2026</u>:
+<u>Oct 21 2026</u>: More conditional probability, simulation
 
-[//]: # <u>Oct 26 2026</u>:
+- Reading: Harchol-Balter 24.1 - 24.3
+- [HW 6 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW06?preview=21132564) (due 10/28/2026 at 9:30 am)
 
-[//]: # <u>Oct 28 2026</u>:
+<u>Oct 26 2026</u>: Stochastic processes, intro to Markov Chains
+
+[//]: # <u>Oct 28 2026</u>: HW 8 assigned
 
 [//]: # <u>Nov 02 2026</u>:
 
-[//]: # <u>Nov 04 2026</u>:
+[//]: # <u>Nov 04 2026</u>: HW 9 assigned
 
 [//]: # <u>Nov 09 2026</u>:
 
-[//]: # <u>Nov 11 2026</u>:
+[//]: # <u>Nov 11 2026</u>: HW 10 assigned
 
 [//]: # <u>Nov 16 2026</u>:
 
-[//]: # <u>Nov 18 2026</u>:
+[//]: # <u>Nov 18 2026</u>: HW 11?
 
 [//]: # <u>Nov 23 2026</u>:
 
