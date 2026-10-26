@@ -129,7 +129,11 @@
 
 <u>Oct 26 2026</u>: Stochastic processes, intro to Markov Chains
 
-[//]: # <u>Oct 28 2026</u>: HW 8 assigned
+- Reading: Harchol-Balter 24.4 - 24.6
+
+<u>Oct 28 2026</u>: Stationary distributions and Ergodic Theorems
+
+- HW 7 assigned
 
 [//]: # <u>Nov 02 2026</u>:
 
