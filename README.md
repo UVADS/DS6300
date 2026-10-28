@@ -133,11 +133,14 @@
 
 <u>Oct 28 2026</u>: Stationary distributions and Ergodic Theorems
 
+- Reading: [A History of the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/30037292?seq=3)
 - [HW 7 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW07?preview=21280740) (due 11/04/2026 at 9:30 am)
 
-[//]: # <u>Nov 02 2026</u>:
+<u>Nov 02 2026</u>: Markov Chain Monte Carlo and Metropolis Hastings
 
-[//]: # <u>Nov 04 2026</u>: HW 9 assigned
+<u>Nov 04 2026</u>: MCMC examples and applications 
+
+- HW 8 assigned
 
 [//]: # <u>Nov 09 2026</u>:
 
