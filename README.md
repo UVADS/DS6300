@@ -125,7 +125,7 @@
 <u>Oct 21 2026</u>: More conditional probability, simulation
 
 - Reading: Harchol-Balter 24.1 - 24.3
-- [HW 6 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW06?preview=21132564) (due 10/28/2026 at 9:30 am)
+- [HW 6 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW06?preview=21132564) (due 10/28/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW06?preview=21232701))
 
 <u>Oct 26 2026</u>: Stochastic processes, intro to Markov Chains
 
@@ -133,7 +133,7 @@
 
 <u>Oct 28 2026</u>: Stationary distributions and Ergodic Theorems
 
-- HW 7 assigned
+- [HW 7 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW07?preview=21280740) (due 11/04/2026 at 9:30 am)
 
 [//]: # <u>Nov 02 2026</u>:
 
