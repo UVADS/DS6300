@@ -138,19 +138,19 @@
 
 <u>Nov 02 2026</u>: Markov Chain Monte Carlo and Metropolis Hastings
 
-<u>Nov 04 2026</u>: MCMC examples and applications 
+<u>Nov 04 2026</u>: MCMC examples and applications
 
-- HW 8 assigned
+- [HW 8 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW08?preview=21429876) (due 11/11/2026 at 9:30 am)
 
-[//]: # <u>Nov 09 2026</u>:
+[//]: # <u>Nov 09 2026</u>: Autocovariance in MCMC; CLT equivalent?
 
-[//]: # <u>Nov 11 2026</u>: HW 10 assigned
+[//]: # <u>Nov 11 2026</u>: ??; HW 10 assigned
 
-[//]: # <u>Nov 16 2026</u>:
+[//]: # <u>Nov 16 2026</u>: Introduction to concentration inequalities
 
-[//]: # <u>Nov 18 2026</u>: HW 11?
+[//]: # <u>Nov 18 2026</u>: Hoeffding and Chernoff bounds; HW 10?
 
-[//]: # <u>Nov 23 2026</u>:
+[//]: # <u>Nov 23 2026</u>: Sub-Gaussian random variables
 
 <u>Nov 25 2026</u>: Thanksgiving recess (no class)
 
