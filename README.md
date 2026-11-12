@@ -148,11 +148,11 @@
 
 - [HW 9 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW09?preview=21578380)
 
-[//]: # <u>Nov 16 2026</u>: Introduction to concentration inequalities
+<u>Nov 16 2026</u>: Introduction to concentration inequalities
 
-[//]: # <u>Nov 18 2026</u>: Hoeffding and Chernoff bounds
+<u>Nov 18 2026</u>: Chernoff bounding technique
 
-[//]: # <u>Nov 23 2026</u>: Sub-Gaussian random variables
+<u>Nov 23 2026</u>: Sub-Gaussian and sub-exponential random variables
 
 <u>Nov 25 2026</u>: Thanksgiving recess (no class)
 
