@@ -134,21 +134,23 @@
 <u>Oct 28 2026</u>: Stationary distributions and Ergodic Theorems
 
 - Reading: [A History of the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/30037292?seq=3)
-- [HW 7 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW07?preview=21280740) (due 11/04/2026 at 9:30 am)
+- [HW 7 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW07?preview=21280740) (due 11/04/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW07?preview=21280794))
 
 <u>Nov 02 2026</u>: Markov Chain Monte Carlo and Metropolis Hastings
 
 <u>Nov 04 2026</u>: MCMC examples and applications
 
-- [HW 8 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW08?preview=21429876) (due 11/11/2026 at 9:30 am)
+- [HW 8 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW08?preview=21429876) (due 11/11/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW08?preview=21561625))
 
-[//]: # <u>Nov 09 2026</u>: Autocovariance in MCMC; CLT equivalent?
+<u>Nov 09 2026</u>: Geometric Ergodicity
 
-[//]: # <u>Nov 11 2026</u>: ??; HW 10 assigned
+<u>Nov 11 2026</u>: Spectral representations and convergence of Markov chains
+
+- [HW 9 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW09?preview=21578380)
 
 [//]: # <u>Nov 16 2026</u>: Introduction to concentration inequalities
 
-[//]: # <u>Nov 18 2026</u>: Hoeffding and Chernoff bounds; HW 10?
+[//]: # <u>Nov 18 2026</u>: Hoeffding and Chernoff bounds
 
 [//]: # <u>Nov 23 2026</u>: Sub-Gaussian random variables
 
