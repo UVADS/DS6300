@@ -146,7 +146,7 @@
 
 <u>Nov 11 2026</u>: Spectral representations and convergence of Markov chains
 
-- [HW 9 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW09?preview=21578380)
+- [HW 9 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW09?preview=21578380) (due 11/18/2026 at 9:30 am)
 
 <u>Nov 16 2026</u>: Introduction to concentration inequalities
 
