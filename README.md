@@ -150,7 +150,11 @@
 
 <u>Nov 16 2026</u>: Introduction to concentration inequalities
 
+- Reading: Vershynin 2.1
+
 <u>Nov 18 2026</u>: Chernoff bounding technique
+
+- Reading: Harchol-Balter 18.1 - 18.8
 
 <u>Nov 23 2026</u>: Sub-Gaussian and sub-exponential random variables
 
