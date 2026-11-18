@@ -146,7 +146,7 @@
 
 <u>Nov 11 2026</u>: Spectral representations and convergence of Markov chains
 
-- [HW 9 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW09?preview=21578380) (due 11/18/2026 at 9:30 am)
+- [HW 9 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW09?preview=21578380) (due 11/18/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW09?preview=21689251))
 
 <u>Nov 16 2026</u>: Introduction to concentration inequalities
 
@@ -157,6 +157,8 @@
 - Reading: Harchol-Balter 18.1 - 18.8
 
 <u>Nov 23 2026</u>: Sub-Gaussian and sub-exponential random variables
+
+- HW 10 assigned
 
 <u>Nov 25 2026</u>: Thanksgiving recess (no class)
 
