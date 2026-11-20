@@ -19,6 +19,8 @@
 
 - High Dimensional Probability (Vershynin) ([PDF](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf))
 
+- Introduction to Probability for Computing (Harchol-Balter) [PDF](http://www.cs.cmu.edu/~harchol/Probability/chapters/HarcholBalterWholeBook.pdf)
+
 - [Course notes](https://canvas.its.virginia.edu/courses/181212/files/folder/Notes)
 
 
@@ -27,8 +29,6 @@
 - [Joe Blitzstein's Statistics 110 course materials](https://stat110.hsites.harvard.edu)
 
 - [Applied Stochastic Processes](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf)
-
-- [Introduction to Probability for Computing](http://www.cs.cmu.edu/~harchol/Probability/chapters/HarcholBalterWholeBook.pdf)
 
 
 --------------
