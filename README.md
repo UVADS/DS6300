@@ -158,7 +158,7 @@
 
 <u>Nov 23 2026</u>: Sub-Gaussian and sub-exponential random variables
 
-- [HW 10 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW10?preview=21775879) (due 12/02/2026 at 9:30 am)
+- [HW 10 assigned](https://canvas.its.virginia.edu/courses/181212/files/folder/Homework/HW10?preview=21778789) (due 12/02/2026 at 9:30 am)
 
 <u>Nov 25 2026</u>: Thanksgiving recess (no class)
 
